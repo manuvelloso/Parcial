@@ -1,0 +1,2 @@
+#include "cPentagono.h"
+

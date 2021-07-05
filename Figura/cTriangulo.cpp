@@ -1,0 +1,3 @@
+#include "cTriangulo.h"
+
+

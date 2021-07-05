@@ -18,36 +18,30 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="cPersona.cpp">
+    <ClCompile Include="cFigura.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="cMonstruo.cpp">
+    <ClCompile Include="cTriangulo.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="cMazmorra.cpp">
+    <ClCompile Include="cCuadrado.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cPentagono.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="cPersona.h">
+    <ClInclude Include="cFigura.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="cMonstruo.h">
+    <ClInclude Include="cTriangulo.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="cEsbirroMago.h">
+    <ClInclude Include="cCuadrado.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="cJefe.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="cElite.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="cEsbirroEspadachin.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="cMazmorra.h">
+    <ClInclude Include="cPentagono.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

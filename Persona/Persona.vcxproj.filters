@@ -18,37 +18,5 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="cPersona.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="cMonstruo.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="cMazmorra.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="cPersona.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="cMonstruo.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="cEsbirroMago.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="cJefe.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="cElite.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="cEsbirroEspadachin.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="cMazmorra.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>

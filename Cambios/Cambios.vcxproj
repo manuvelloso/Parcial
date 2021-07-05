@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{7bd6f92b-88d2-4473-af21-d520032204e0}</ProjectGuid>
-    <RootNamespace>VELLOSOPARCIALLABOI</RootNamespace>
+    <ProjectGuid>{0627ae4d-c320-47c5-a51a-b2a6a9959994}</ProjectGuid>
+    <RootNamespace>Cambios</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,19 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="cMazmorra.cpp" />
-    <ClCompile Include="cMonstruo.cpp" />
-    <ClCompile Include="cPersona.cpp" />
-    <ClCompile Include="main.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="cElite.h" />
-    <ClInclude Include="cEsbirroEspadachin.h" />
-    <ClInclude Include="cEsbirroMago.h" />
-    <ClInclude Include="cJefe.h" />
-    <ClInclude Include="cMazmorra.h" />
-    <ClInclude Include="cMonstruo.h" />
-    <ClInclude Include="cPersona.h" />
+    <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
